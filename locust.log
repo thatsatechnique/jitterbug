@@ -1,0 +1,147 @@
+[2024-12-11 22:53:55,836] f895a6c78956/INFO/locust.main: Starting Locust 2.32.4
+[2024-12-11 22:53:55,841] f895a6c78956/INFO/locust.main: Starting web interface at http://0.0.0.0:8089
+[2024-12-11 22:53:55,845] f895a6c78956/DEBUG/root: Terminal was not a tty. Keyboard input disabled
+[2024-12-11 22:53:56,031] f895a6c78956/DEBUG/locust.runners: Sending ack message to worker 71fd37ecbb9a_2a85a0b438c740a5b7792af9c51b545f
+[2024-12-11 22:53:56,032] f895a6c78956/INFO/locust.runners: 71fd37ecbb9a_2a85a0b438c740a5b7792af9c51b545f (index 0) reported as ready. 1 workers connected.
+[2024-12-11 22:54:01,756] f895a6c78956/INFO/locust.runners: Sending spawn jobs of 1 users at 1.00 spawn rate to 1 ready workers
+[2024-12-11 22:54:01,756] f895a6c78956/DEBUG/locust.runners: Sending spawn messages for 1 total users to 1 worker(s)
+[2024-12-11 22:54:01,757] f895a6c78956/DEBUG/locust.runners: Currently spawned users: {"NetworkPerformanceTest": 0} (0 total users)
+[2024-12-11 22:54:01,815] f895a6c78956/DEBUG/locust.runners: Sending spawning_complete message to worker 71fd37ecbb9a_2a85a0b438c740a5b7792af9c51b545f
+[2024-12-11 22:54:01,815] f895a6c78956/INFO/locust.runners: All users spawned: {"NetworkPerformanceTest": 1} (1 total users)
+[2024-12-11 22:54:18,667] f895a6c78956/DEBUG/locust.runners: Stopping...
+[2024-12-11 22:54:18,668] f895a6c78956/DEBUG/locust.runners: Sending stop message to worker 71fd37ecbb9a_2a85a0b438c740a5b7792af9c51b545f
+[2024-12-11 22:54:18,688] f895a6c78956/INFO/locust.runners: 71fd37ecbb9a_2a85a0b438c740a5b7792af9c51b545f (index 0) reported that it has stopped
+[2024-12-11 22:54:18,688] f895a6c78956/DEBUG/locust.runners: Sending ack message to worker 71fd37ecbb9a_2a85a0b438c740a5b7792af9c51b545f
+[2024-12-11 22:54:18,689] f895a6c78956/INFO/locust.runners: 71fd37ecbb9a_2a85a0b438c740a5b7792af9c51b545f (index 0) reported as ready. 1 workers connected.
+[2024-12-11 22:57:10,988] f895a6c78956/INFO/locust.main: Got SIGTERM signal
+[2024-12-11 22:57:10,989] f895a6c78956/DEBUG/locust.main: Running teardowns...
+[2024-12-11 22:57:10,989] f895a6c78956/DEBUG/locust.runners: Quitting...
+[2024-12-11 22:57:10,989] f895a6c78956/DEBUG/locust.runners: Sending quit message to worker 71fd37ecbb9a_2a85a0b438c740a5b7792af9c51b545f (index 0)
+[2024-12-11 22:57:10,990] f895a6c78956/INFO/locust.runners: Worker '71fd37ecbb9a_2a85a0b438c740a5b7792af9c51b545f' (index 0) quit. 0 workers ready.
+[2024-12-11 22:57:10,990] f895a6c78956/INFO/locust.runners: The last worker quit, stopping test.
+[2024-12-11 22:57:11,493] f895a6c78956/INFO/locust.main: Shutting down (exit code 0)
+[2024-12-11 22:57:11,494] f895a6c78956/DEBUG/locust.main: Cleaning up runner...
+[2024-12-11 22:57:11,494] f895a6c78956/DEBUG/locust.runners: Quitting...
+[2024-12-11 22:57:14,518] 70b1ff3344ea/INFO/locust.main: Starting Locust 2.32.4
+[2024-12-11 22:57:14,523] 70b1ff3344ea/INFO/locust.main: Starting web interface at http://0.0.0.0:8089
+[2024-12-11 22:57:14,527] 70b1ff3344ea/DEBUG/root: Terminal was not a tty. Keyboard input disabled
+[2024-12-11 22:57:14,704] 70b1ff3344ea/DEBUG/locust.runners: Sending ack message to worker c89a2408cb3e_2a9b569ba85a4bd2ad8d97cd1614d80b
+[2024-12-11 22:57:14,705] 70b1ff3344ea/INFO/locust.runners: c89a2408cb3e_2a9b569ba85a4bd2ad8d97cd1614d80b (index 0) reported as ready. 1 workers connected.
+[2024-12-11 22:57:18,587] 70b1ff3344ea/INFO/locust.runners: Sending spawn jobs of 1 users at 1.00 spawn rate to 1 ready workers
+[2024-12-11 22:57:18,587] 70b1ff3344ea/DEBUG/locust.runners: Sending spawn messages for 1 total users to 1 worker(s)
+[2024-12-11 22:57:18,588] 70b1ff3344ea/DEBUG/locust.runners: Currently spawned users: {"NetworkPerformanceTest": 0} (0 total users)
+[2024-12-11 22:57:18,649] 70b1ff3344ea/DEBUG/locust.runners: Sending spawning_complete message to worker c89a2408cb3e_2a9b569ba85a4bd2ad8d97cd1614d80b
+[2024-12-11 22:57:18,649] 70b1ff3344ea/INFO/locust.runners: All users spawned: {"NetworkPerformanceTest": 1} (1 total users)
+[2024-12-11 22:57:26,001] 70b1ff3344ea/DEBUG/locust.runners: Stopping...
+[2024-12-11 22:57:26,001] 70b1ff3344ea/DEBUG/locust.runners: Sending stop message to worker c89a2408cb3e_2a9b569ba85a4bd2ad8d97cd1614d80b
+[2024-12-11 22:57:26,025] 70b1ff3344ea/INFO/locust.runners: c89a2408cb3e_2a9b569ba85a4bd2ad8d97cd1614d80b (index 0) reported that it has stopped
+[2024-12-11 22:57:26,025] 70b1ff3344ea/DEBUG/locust.runners: Sending ack message to worker c89a2408cb3e_2a9b569ba85a4bd2ad8d97cd1614d80b
+[2024-12-11 22:57:26,025] 70b1ff3344ea/INFO/locust.runners: c89a2408cb3e_2a9b569ba85a4bd2ad8d97cd1614d80b (index 0) reported as ready. 1 workers connected.
+[2024-12-11 22:58:40,333] 70b1ff3344ea/INFO/locust.main: Got SIGTERM signal
+[2024-12-11 22:58:40,336] 70b1ff3344ea/DEBUG/locust.main: Running teardowns...
+[2024-12-11 22:58:40,337] 70b1ff3344ea/DEBUG/locust.runners: Quitting...
+[2024-12-11 22:58:40,337] 70b1ff3344ea/DEBUG/locust.runners: Sending quit message to worker c89a2408cb3e_2a9b569ba85a4bd2ad8d97cd1614d80b (index 0)
+[2024-12-11 22:58:40,337] 70b1ff3344ea/INFO/locust.runners: Worker 'c89a2408cb3e_2a9b569ba85a4bd2ad8d97cd1614d80b' (index 0) quit. 0 workers ready.
+[2024-12-11 22:58:40,337] 70b1ff3344ea/INFO/locust.runners: The last worker quit, stopping test.
+[2024-12-11 22:58:40,841] 70b1ff3344ea/INFO/locust.main: Shutting down (exit code 0)
+[2024-12-11 22:58:40,842] 70b1ff3344ea/DEBUG/locust.main: Cleaning up runner...
+[2024-12-11 22:58:40,842] 70b1ff3344ea/DEBUG/locust.runners: Quitting...
+[2024-12-11 22:58:43,741] aadc4344872d/INFO/locust.main: Starting Locust 2.32.4
+[2024-12-11 22:58:43,746] aadc4344872d/INFO/locust.main: Starting web interface at http://0.0.0.0:8089
+[2024-12-11 22:58:43,751] aadc4344872d/DEBUG/root: Terminal was not a tty. Keyboard input disabled
+[2024-12-11 22:58:43,752] aadc4344872d/DEBUG/locust.runners: Sending ack message to worker be44fd990705_fb67bed5bcb2460fb8a3938dcb242f74
+[2024-12-11 22:58:43,752] aadc4344872d/INFO/locust.runners: be44fd990705_fb67bed5bcb2460fb8a3938dcb242f74 (index 0) reported as ready. 1 workers connected.
+[2024-12-11 22:58:47,749] aadc4344872d/INFO/locust.runners: Sending spawn jobs of 1 users at 1.00 spawn rate to 1 ready workers
+[2024-12-11 22:58:47,750] aadc4344872d/DEBUG/locust.runners: Sending spawn messages for 1 total users to 1 worker(s)
+[2024-12-11 22:58:47,750] aadc4344872d/DEBUG/locust.runners: Currently spawned users: {"NetworkPerformanceTest": 0} (0 total users)
+[2024-12-11 22:58:47,811] aadc4344872d/DEBUG/locust.runners: Sending spawning_complete message to worker be44fd990705_fb67bed5bcb2460fb8a3938dcb242f74
+[2024-12-11 22:58:47,811] aadc4344872d/INFO/locust.runners: All users spawned: {"NetworkPerformanceTest": 1} (1 total users)
+[2024-12-11 22:58:49,702] aadc4344872d/DEBUG/locust.runners: Stopping...
+[2024-12-11 22:58:49,703] aadc4344872d/DEBUG/locust.runners: Sending stop message to worker be44fd990705_fb67bed5bcb2460fb8a3938dcb242f74
+[2024-12-11 22:58:49,721] aadc4344872d/INFO/locust.runners: be44fd990705_fb67bed5bcb2460fb8a3938dcb242f74 (index 0) reported that it has stopped
+[2024-12-11 22:58:49,721] aadc4344872d/DEBUG/locust.runners: Sending ack message to worker be44fd990705_fb67bed5bcb2460fb8a3938dcb242f74
+[2024-12-11 22:58:49,721] aadc4344872d/INFO/locust.runners: be44fd990705_fb67bed5bcb2460fb8a3938dcb242f74 (index 0) reported as ready. 1 workers connected.
+[2024-12-11 22:58:54,453] aadc4344872d/INFO/locust.runners: Sending spawn jobs of 1 users at 1.00 spawn rate to 1 ready workers
+[2024-12-11 22:58:54,453] aadc4344872d/DEBUG/locust.runners: Sending spawn messages for 1 total users to 1 worker(s)
+[2024-12-11 22:58:54,454] aadc4344872d/DEBUG/locust.runners: Currently spawned users: {"NetworkPerformanceTest": 0} (0 total users)
+[2024-12-11 22:58:54,500] aadc4344872d/DEBUG/locust.runners: Sending spawning_complete message to worker be44fd990705_fb67bed5bcb2460fb8a3938dcb242f74
+[2024-12-11 22:58:54,500] aadc4344872d/INFO/locust.runners: All users spawned: {"NetworkPerformanceTest": 1} (1 total users)
+[2024-12-11 22:59:14,826] aadc4344872d/DEBUG/locust.runners: Stopping...
+[2024-12-11 22:59:14,826] aadc4344872d/DEBUG/locust.runners: Sending stop message to worker be44fd990705_fb67bed5bcb2460fb8a3938dcb242f74
+[2024-12-11 22:59:14,827] aadc4344872d/INFO/locust.runners: be44fd990705_fb67bed5bcb2460fb8a3938dcb242f74 (index 0) reported that it has stopped
+[2024-12-11 22:59:14,827] aadc4344872d/DEBUG/locust.runners: Sending ack message to worker be44fd990705_fb67bed5bcb2460fb8a3938dcb242f74
+[2024-12-11 22:59:14,827] aadc4344872d/INFO/locust.runners: be44fd990705_fb67bed5bcb2460fb8a3938dcb242f74 (index 0) reported as ready. 1 workers connected.
+[2024-12-11 22:59:45,662] aadc4344872d/INFO/locust.runners: Sending spawn jobs of 15 users at 5.00 spawn rate to 1 ready workers
+[2024-12-11 22:59:45,662] aadc4344872d/DEBUG/locust.runners: Sending spawn messages for 5 total users to 1 worker(s)
+[2024-12-11 22:59:45,663] aadc4344872d/DEBUG/locust.runners: Currently spawned users: {"NetworkPerformanceTest": 0} (0 total users)
+[2024-12-11 22:59:46,668] aadc4344872d/DEBUG/locust.runners: Sending spawn messages for 10 total users to 1 worker(s)
+[2024-12-11 22:59:46,670] aadc4344872d/DEBUG/locust.runners: Currently spawned users: {"NetworkPerformanceTest": 5} (5 total users)
+[2024-12-11 22:59:47,671] aadc4344872d/DEBUG/locust.runners: Sending spawn messages for 15 total users to 1 worker(s)
+[2024-12-11 22:59:47,673] aadc4344872d/DEBUG/locust.runners: Currently spawned users: {"NetworkPerformanceTest": 10} (10 total users)
+[2024-12-11 22:59:47,732] aadc4344872d/DEBUG/locust.runners: Sending spawning_complete message to worker be44fd990705_fb67bed5bcb2460fb8a3938dcb242f74
+[2024-12-11 22:59:47,732] aadc4344872d/INFO/locust.runners: All users spawned: {"NetworkPerformanceTest": 15} (15 total users)
+[2024-12-11 23:00:02,087] aadc4344872d/DEBUG/locust.runners: Stopping...
+[2024-12-11 23:00:02,088] aadc4344872d/DEBUG/locust.runners: Sending stop message to worker be44fd990705_fb67bed5bcb2460fb8a3938dcb242f74
+[2024-12-11 23:00:02,091] aadc4344872d/INFO/locust.runners: be44fd990705_fb67bed5bcb2460fb8a3938dcb242f74 (index 0) reported that it has stopped
+[2024-12-11 23:00:02,091] aadc4344872d/DEBUG/locust.runners: Sending ack message to worker be44fd990705_fb67bed5bcb2460fb8a3938dcb242f74
+[2024-12-11 23:00:02,092] aadc4344872d/INFO/locust.runners: be44fd990705_fb67bed5bcb2460fb8a3938dcb242f74 (index 0) reported as ready. 1 workers connected.
+[2024-12-11 23:04:49,622] aadc4344872d/INFO/locust.main: Got SIGTERM signal
+[2024-12-11 23:04:49,625] aadc4344872d/DEBUG/locust.main: Running teardowns...
+[2024-12-11 23:04:49,626] aadc4344872d/DEBUG/locust.runners: Quitting...
+[2024-12-11 23:04:49,626] aadc4344872d/DEBUG/locust.runners: Sending quit message to worker be44fd990705_fb67bed5bcb2460fb8a3938dcb242f74 (index 0)
+[2024-12-11 23:04:49,626] aadc4344872d/INFO/locust.runners: Worker 'be44fd990705_fb67bed5bcb2460fb8a3938dcb242f74' (index 0) quit. 0 workers ready.
+[2024-12-11 23:04:49,626] aadc4344872d/INFO/locust.runners: The last worker quit, stopping test.
+[2024-12-11 23:04:50,131] aadc4344872d/INFO/locust.main: Shutting down (exit code 0)
+[2024-12-11 23:04:50,132] aadc4344872d/DEBUG/locust.main: Cleaning up runner...
+[2024-12-11 23:04:50,133] aadc4344872d/DEBUG/locust.runners: Quitting...
+[2024-12-11 23:05:31,864] 66c4709e6f4a/INFO/locust.main: Starting Locust 2.32.4
+[2024-12-11 23:05:31,869] 66c4709e6f4a/INFO/locust.main: Starting web interface at http://0.0.0.0:8089
+[2024-12-11 23:05:31,873] 66c4709e6f4a/DEBUG/root: Terminal was not a tty. Keyboard input disabled
+[2024-12-11 23:05:32,052] 66c4709e6f4a/DEBUG/locust.runners: Sending ack message to worker 2f686331d01c_ca00276a7e9c425aafaefe8a98791ffe
+[2024-12-11 23:05:32,052] 66c4709e6f4a/INFO/locust.runners: 2f686331d01c_ca00276a7e9c425aafaefe8a98791ffe (index 0) reported as ready. 1 workers connected.
+[2024-12-11 23:06:17,027] 66c4709e6f4a/INFO/locust.runners: Sending spawn jobs of 15 users at 1.00 spawn rate to 1 ready workers
+[2024-12-11 23:06:17,028] 66c4709e6f4a/DEBUG/locust.runners: Sending spawn messages for 1 total users to 1 worker(s)
+[2024-12-11 23:06:17,028] 66c4709e6f4a/DEBUG/locust.runners: Currently spawned users: {"NetworkPerformanceTest": 0} (0 total users)
+[2024-12-11 23:06:18,031] 66c4709e6f4a/DEBUG/locust.runners: Sending spawn messages for 2 total users to 1 worker(s)
+[2024-12-11 23:06:18,033] 66c4709e6f4a/DEBUG/locust.runners: Currently spawned users: {"NetworkPerformanceTest": 1} (1 total users)
+[2024-12-11 23:06:19,035] 66c4709e6f4a/DEBUG/locust.runners: Sending spawn messages for 3 total users to 1 worker(s)
+[2024-12-11 23:06:19,037] 66c4709e6f4a/DEBUG/locust.runners: Currently spawned users: {"NetworkPerformanceTest": 2} (2 total users)
+[2024-12-11 23:06:20,037] 66c4709e6f4a/DEBUG/locust.runners: Sending spawn messages for 4 total users to 1 worker(s)
+[2024-12-11 23:06:20,039] 66c4709e6f4a/DEBUG/locust.runners: Currently spawned users: {"NetworkPerformanceTest": 3} (3 total users)
+[2024-12-11 23:06:21,040] 66c4709e6f4a/DEBUG/locust.runners: Sending spawn messages for 5 total users to 1 worker(s)
+[2024-12-11 23:06:21,042] 66c4709e6f4a/DEBUG/locust.runners: Currently spawned users: {"NetworkPerformanceTest": 4} (4 total users)
+[2024-12-11 23:06:22,042] 66c4709e6f4a/DEBUG/locust.runners: Sending spawn messages for 6 total users to 1 worker(s)
+[2024-12-11 23:06:22,044] 66c4709e6f4a/DEBUG/locust.runners: Currently spawned users: {"NetworkPerformanceTest": 5} (5 total users)
+[2024-12-11 23:06:23,046] 66c4709e6f4a/DEBUG/locust.runners: Sending spawn messages for 7 total users to 1 worker(s)
+[2024-12-11 23:06:23,048] 66c4709e6f4a/DEBUG/locust.runners: Currently spawned users: {"NetworkPerformanceTest": 6} (6 total users)
+[2024-12-11 23:06:24,051] 66c4709e6f4a/DEBUG/locust.runners: Sending spawn messages for 8 total users to 1 worker(s)
+[2024-12-11 23:06:24,053] 66c4709e6f4a/DEBUG/locust.runners: Currently spawned users: {"NetworkPerformanceTest": 7} (7 total users)
+[2024-12-11 23:06:25,056] 66c4709e6f4a/DEBUG/locust.runners: Sending spawn messages for 9 total users to 1 worker(s)
+[2024-12-11 23:06:25,059] 66c4709e6f4a/DEBUG/locust.runners: Currently spawned users: {"NetworkPerformanceTest": 8} (8 total users)
+[2024-12-11 23:06:26,058] 66c4709e6f4a/DEBUG/locust.runners: Sending spawn messages for 10 total users to 1 worker(s)
+[2024-12-11 23:06:26,059] 66c4709e6f4a/DEBUG/locust.runners: Currently spawned users: {"NetworkPerformanceTest": 9} (9 total users)
+[2024-12-11 23:06:27,059] 66c4709e6f4a/DEBUG/locust.runners: Sending spawn messages for 11 total users to 1 worker(s)
+[2024-12-11 23:06:27,060] 66c4709e6f4a/DEBUG/locust.runners: Currently spawned users: {"NetworkPerformanceTest": 10} (10 total users)
+[2024-12-11 23:06:28,063] 66c4709e6f4a/DEBUG/locust.runners: Sending spawn messages for 12 total users to 1 worker(s)
+[2024-12-11 23:06:28,065] 66c4709e6f4a/DEBUG/locust.runners: Currently spawned users: {"NetworkPerformanceTest": 11} (11 total users)
+[2024-12-11 23:06:29,066] 66c4709e6f4a/DEBUG/locust.runners: Sending spawn messages for 13 total users to 1 worker(s)
+[2024-12-11 23:06:29,067] 66c4709e6f4a/DEBUG/locust.runners: Currently spawned users: {"NetworkPerformanceTest": 12} (12 total users)
+[2024-12-11 23:06:30,069] 66c4709e6f4a/DEBUG/locust.runners: Sending spawn messages for 14 total users to 1 worker(s)
+[2024-12-11 23:06:30,071] 66c4709e6f4a/DEBUG/locust.runners: Currently spawned users: {"NetworkPerformanceTest": 13} (13 total users)
+[2024-12-11 23:06:31,071] 66c4709e6f4a/DEBUG/locust.runners: Sending spawn messages for 15 total users to 1 worker(s)
+[2024-12-11 23:06:31,072] 66c4709e6f4a/DEBUG/locust.runners: Currently spawned users: {"NetworkPerformanceTest": 14} (14 total users)
+[2024-12-11 23:06:31,126] 66c4709e6f4a/DEBUG/locust.runners: Sending spawning_complete message to worker 2f686331d01c_ca00276a7e9c425aafaefe8a98791ffe
+[2024-12-11 23:06:31,126] 66c4709e6f4a/INFO/locust.runners: All users spawned: {"NetworkPerformanceTest": 15} (15 total users)
+[2024-12-11 23:06:39,127] 66c4709e6f4a/DEBUG/locust.runners: Stopping...
+[2024-12-11 23:06:39,127] 66c4709e6f4a/DEBUG/locust.runners: Sending stop message to worker 2f686331d01c_ca00276a7e9c425aafaefe8a98791ffe
+[2024-12-11 23:06:39,143] 66c4709e6f4a/INFO/locust.runners: 2f686331d01c_ca00276a7e9c425aafaefe8a98791ffe (index 0) reported that it has stopped
+[2024-12-11 23:06:39,143] 66c4709e6f4a/DEBUG/locust.runners: Sending ack message to worker 2f686331d01c_ca00276a7e9c425aafaefe8a98791ffe
+[2024-12-11 23:06:39,143] 66c4709e6f4a/INFO/locust.runners: 2f686331d01c_ca00276a7e9c425aafaefe8a98791ffe (index 0) reported as ready. 1 workers connected.
+[2024-12-11 23:51:27,340] 66c4709e6f4a/INFO/locust.runners: Worker '2f686331d01c_ca00276a7e9c425aafaefe8a98791ffe' (index 0) quit. 0 workers ready.
+[2024-12-11 23:51:27,345] 66c4709e6f4a/INFO/locust.runners: The last worker quit, stopping test.
+[2024-12-12 00:17:33,351] 66c4709e6f4a/INFO/locust.main: Got SIGTERM signal
+[2024-12-12 00:17:33,352] 66c4709e6f4a/DEBUG/locust.main: Running teardowns...
+[2024-12-12 00:17:33,352] 66c4709e6f4a/DEBUG/locust.runners: Quitting...
+[2024-12-12 00:17:33,855] 66c4709e6f4a/INFO/locust.main: Shutting down (exit code 0)
+[2024-12-12 00:17:33,856] 66c4709e6f4a/DEBUG/locust.main: Cleaning up runner...
+[2024-12-12 00:17:33,856] 66c4709e6f4a/DEBUG/locust.runners: Quitting...
