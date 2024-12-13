@@ -1,3 +1,5 @@
+![jitterbug-logo](https://github.com/user-attachments/assets/4411975b-8394-4059-b360-68be90134702)
+
 # JitterBug
 A comprehensive suite of scripts and configurations for network performance testing, focusing on metrics like latency, jitter, throughput, and concurrency. This repository provides multiple methods to conduct network tests, including web-based tools, command-line utilities, and containerized solutions.
 
